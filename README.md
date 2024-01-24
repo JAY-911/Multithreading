@@ -1,4 +1,4 @@
-In this assignment, you will play with threads to play a musical tone. You are provided with music tone files and sample Java code that plays those music tones. The music tones correspond to the musical “do, re, mi fa, sol, la, si, do-octave”.
+In this Project, you will play with threads to play a musical tone. You are provided with music tone files and sample Java code that plays those music tones. The music tones correspond to the musical “do, re, mi fa, sol, la, si, do-octave”.
 
 Your Task:
 
